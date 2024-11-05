@@ -1,8 +1,8 @@
 import example.pepita
 
-describe "group of tests for pepita" {
+describe "test de kinoseologia parte 1" {
 
-  test "pepita has initial energy" {
+  test "d" {
     assert.equals(100, pepita.energy())
   }
 
